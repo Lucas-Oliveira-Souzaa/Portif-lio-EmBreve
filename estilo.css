@@ -29,7 +29,7 @@ header{
     justify-content: space-between;
     z-index: 111;
     padding: 20px 320px;
-    background-image: url(../ProjetoDev2022/banner/banner1.jpg);
+    background: color black;    
     box-shadow: rgba(0, 0, 0, 1.0);
     box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
     border-bottom-left-radius: 50px;
